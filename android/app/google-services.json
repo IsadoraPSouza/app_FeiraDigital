@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "166321249867",
+    "firebase_url": "https://ofairta-cbcff-default-rtdb.firebaseio.com",
+    "project_id": "ofairta-cbcff",
+    "storage_bucket": "ofairta-cbcff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166321249867:android:7d1582421991ef7d1db7ce",
+        "android_client_info": {
+          "package_name": "app.ofairta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166321249867-ak78lbgbp1ikf9r1juedf6pv9jfl4n79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB86S0Amzwq8s04aVyTeplXrx4T__jcd1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166321249867-ak78lbgbp1ikf9r1juedf6pv9jfl4n79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
