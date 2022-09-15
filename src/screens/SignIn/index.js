@@ -20,20 +20,20 @@ export default () => {
     const navigation = useNavigation();
     const [email,setEmail] = useState('');
     const [password,setPassword] = useState('');
-// //auth()
+// auth()
 //   .createUserWithEmailAndPassword('jane.doe@example.com', 'SuperSecretPassword!')
-//   .then(() => {
+//  .then(() => {
 //     console.log('User account created & signed in!');
 //   })
-//   .catch(error => {
+// .catch(error => {
 //     if (error.code === 'auth/email-already-in-use') {
 //       console.log('That email address is already in use!');
 //     }
-
+//
 //     if (error.code === 'auth/invalid-email') {
 //       console.log('That email address is invalid!');
 //     }
-
+//
 //     console.error(error);
 //   });
 
